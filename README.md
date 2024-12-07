@@ -46,5 +46,4 @@
 
 ###
 
-- 🔭 hoje trabalho com front-end ...
-- 🌱 Estudando Typescript
+
